@@ -27,7 +27,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dilizz713&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilinisilva713)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dilizz713)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dilinichamikasilva)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/dilinisilva713)
 
 ---
@@ -63,8 +63,8 @@
 
 ---
 
-![Dilini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilizz713&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilizz713&layout=compact&theme=radical)
+![Dilini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilinichamikasilva&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilinichamikasilva&layout=compact&theme=radical)
 
 
 
