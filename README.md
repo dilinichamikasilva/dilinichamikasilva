@@ -1,79 +1,64 @@
 # 👋 Hey there! I'm **Dilini Chamika Silva**
 
-> 🚀 Tech enthusiast | 💻 Coder | 🌱 Lifelong Learner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate;Full+Stack+Developer+in+the+making;Spring+Boot+%26+React+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 💫 About Me
+<img align="right" width="350" src="https://cdn.dribbble.com/users/116207/screenshots/3148950/programming.gif" alt="Coding GIF" />
 
-- 🎓 **Undergraduate in Computer Science**
-- 📍 Based in **Colombo, Sri Lanka**
-- 💡 Passionate about **Web Development**, **AI**, & **Open Source**
-- 🌱 Currently exploring: `Springboot`, `React`, & `JS`
-- 💬 Ask me about `Java`, `Data Structures`, or any coding challenges!
-
----
-
-## 🚩 What I'm Working On
-
-- 🔭 Building **exciting projects**
-- 🤝 Contributing to **open-source**
-- 🧑‍🤝‍🧑 Connecting with the global tech community
+- 🎓 **Undergraduate** in Computer Science based in **Colombo, Sri Lanka** 🇱🇰
+- 💡 Passionate about building scalable **Web Applications** and exploring **AI**.
+- 🌱 Currently mastering the art of: `<Machine Learning />`, `<Next.js />`, and `SpringBoot`.
+- 💬 Ask me about: **Java**, **Python**, or why my code finally worked on the 10th try.
+- ✉️ Reach me at: **dilinichamikasilva@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack & Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=dilizz713&color=blue)
+### 🌐 Languages & Frameworks
+  
+**Frontend Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilinisilva713)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dilinichamikasilva)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/dilinisilva713)
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" /> </p>
+
+**Backend & Database**
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql&theme=dark" /> </p>
+
+**Mobile, AI & Data Science**
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=reactnative,py,tensorflow&theme=dark" /> </p>
+
+**MERN Stack Specialization**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+</p>
+
+###  Design & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,pycharm&theme=dark" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
 
-### 🚩 Languages & Technologies
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-563D7C?style=flat&logo=adobe&logoColor=white)
-
-### 🧰 Tools & IDEs
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=flat&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+## 🌐 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/dilinisilva713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilinisilva713" height="30" width="40" /></a>
+<a href="https://github.com/dilinichamikasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dilinichamikasilva" height="30" width="40" /></a>
+<a href="https://www.freelancer.com/u/dilinisilva713" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="freelancer" height="25" width="40" /></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
+> **"The best way to predict the future is to create it."** > When I'm not coding, you can find me exploring new UI trends or contributing to the tech community.
 
-> ⭐ Always curious. Always coding.  
-> Let's connect, share, and build something amazing together!
-
----
-
-![Dilini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilinichamikasilva&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilinichamikasilva&layout=compact&theme=radical)
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dilizz713&label=Profile%20Views&color=0e75b6&style=flat" alt="dilizz713" />
+</p>
